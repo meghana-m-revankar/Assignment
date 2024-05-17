@@ -1,1 +1,1 @@
-I have used the weather API provided in the assignment question I also tried using tailwind some components have been taken from the browser to save time and I tried understanding those I also have taken help from AI tools such as chat to get a hold on any new concept and tech/framework used is React JS.
+
